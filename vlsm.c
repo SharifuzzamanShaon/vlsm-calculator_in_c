@@ -4,8 +4,6 @@ void subnetCalculation(int totalSubent, int totalHost[]);
 
 int main()
 {
-
-
     char ip_address_str[16];
     printf("Enter IP address (e.g., 192.168.1.10): ");
     scanf("%15s", ip_address_str);
